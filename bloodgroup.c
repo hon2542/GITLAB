@@ -7,13 +7,6 @@ void main()
   do
   {
     printf("What your name? ");
-=======
-{ char Name[55], G[5], answer[80];
-  int i;
-  do
-  {
-    printf("What's your name??? ");
->>>>>>> 99aadc459c3eeb8448e5faf4680c692d3b3284b3
     scanf("%s", Name);
     do
     {
